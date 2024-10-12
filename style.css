@@ -1,0 +1,43 @@
+body {
+    padding-top: 56px;
+}
+
+.main-content{
+    background-color: #ffffff;
+}
+.hero {
+    background-color: #f9f2ec;
+    padding: 50px 0;
+}
+.perfil {
+    width: 180px;
+    border-radius: 50%;
+}
+.hero h1 {
+    font-size: 2.5rem;
+}
+.card-columns {
+    column-count: 2;
+}
+footer {
+    padding: 20px 0;
+    background-color: #fdddc1;
+    color: black;
+    text-align: center;
+}
+
+.navbar{
+    background-color: #f9f2ec;
+}
+
+.img-cool img {
+max-width: 350px;
+object-fit: cover;
+border-radius: none;
+}
+
+.img-cool {
+justify-content: space-between;   
+margin-bottom: 50px; 
+}
+
